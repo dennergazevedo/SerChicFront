@@ -1,0 +1,11 @@
+.iconNav{
+  font-size: 30px;
+}
+
+.navItem{
+  display: flex;
+  margin-right: 10px;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}

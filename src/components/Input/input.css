@@ -1,0 +1,53 @@
+.navTransparent{
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-color: #FFF5;
+  border-width: 0.1px;
+  padding: 1px 15px 1px;
+  color: #FFF;
+  height: 30px;
+  width: 10vw;
+}
+
+.navTransparentOpen{
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-color: #FFF5;
+  border-width: 0.1px;
+  padding: 1px 15px 1px;
+  color: #FFF;
+  height: 30px;
+  width: 60vw;
+  margin-bottom: 10px;
+}
+
+.navSearch{
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-color: #FFF5;
+  border-width: 0.1px;
+  padding: 1px 15px 1px;
+  color: #FFF;
+  height: 30px;
+  width: 25vw;
+}
+
+.navSearchOpen{
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-color: #FFF5;
+  border-width: 0.1px;
+  padding: 1px 15px 1px;
+  color: #FFF;
+  height: 30px;
+  width: 60vw;
+  margin-bottom: 10px;
+}

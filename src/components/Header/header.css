@@ -1,0 +1,43 @@
+.iconHeader{
+  font-size: 30px;
+}
+
+.navItem{
+  display: flex;
+  margin-right: 10px;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerItem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.imgHeader{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: none;
+  background-color: #E5E5E5;
+  color: #2E2E2E;
+  padding: 10px;
+}
+
+.headerDiv{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  background-color: #fcfcfc;
+}
+
+.iconDropItem{
+  font-size: 15px;
+  align-items: center;
+  margin-right: 25px;
+}

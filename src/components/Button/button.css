@@ -1,0 +1,11 @@
+.rosa{
+  background-image: linear-gradient(to bottom, #FFF, #ffa8e8);
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+  border: none;
+  color: #cf0098;
+  font-weight: 500;
+  font-family: "Montserrat";
+  font-size: 12px;
+}
